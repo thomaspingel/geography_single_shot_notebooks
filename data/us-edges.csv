@@ -1,0 +1,301 @@
+distance,source,target,type
+1436.670509055,"Orange, CA","Rowlett, TX",undirected
+468.27499529,"Orange, CA","Tucson, AZ",undirected
+400.06410354,"Orange, CA","Concord, CA",undirected
+428.676017245,"Orange, CA","Napa, CA",undirected
+2174.560432825,"Orange, CA","Sandy Springs, GA",undirected
+2552.853595675,"Orange, CA","Palm Bay, FL",undirected
+30.37132286,"Orange, CA","Rosemead, CA",undirected
+2770.315697315,"Orange, CA","Irvington, NJ",undirected
+2257.59441661,"Orange, CA","Livonia, MI",undirected
+2247.2504702200004,"Orange, CA","Macon, GA",undirected
+1741.672459035,"Orange, CA","Lafayette, LA",undirected
+676.95838157,"Orange, CA","Taylorsville, UT",undirected
+1528.118153325,"Orange, CA","McAllen, TX",undirected
+2335.697208075,"Orange, CA","Cleveland, OH",undirected
+2172.661526105,"Orange, CA","Knoxville, TN",undirected
+2602.3202400050004,"Orange, CA","Rockville, MD",undirected
+2558.5046451400003,"Orange, CA","Sarasota, FL",undirected
+2052.2546223,"Orange, CA","East Pensacola Heights, FL",undirected
+1798.319655085,"Orange, CA","Bartlett, TN",undirected
+2718.0373537349997,"Orange, CA","Doral, FL",undirected
+55.94069836,"Orange, CA","Canoga Park, CA",undirected
+2845.692227905,"Orange, CA","Pittsfield, MA",undirected
+2667.06792606,"Orange, CA","Norfolk, VA",undirected
+2009.21418651,"Orange, CA","Skokie, IL",undirected
+968.28522059,"Rowlett, TX","Tucson, AZ",undirected
+1729.38269249,"Rowlett, TX","Concord, CA",undirected
+1757.994606195,"Rowlett, TX","Napa, CA",undirected
+785.64655786,"Rowlett, TX","Sandy Springs, GA",undirected
+1141.050624705,"Rowlett, TX","Palm Bay, FL",undirected
+1433.75907992,"Rowlett, TX","Rosemead, CA",undirected
+1514.682269815,"Rowlett, TX","Irvington, NJ",undirected
+1166.8769367,"Rowlett, TX","Livonia, MI",undirected
+822.292785665,"Rowlett, TX","Macon, GA",undirected
+383.42195083,"Rowlett, TX","Lafayette, LA",undirected
+1252.72106631,"Rowlett, TX","Taylorsville, UT",undirected
+524.055069505,"Rowlett, TX","McAllen, TX",undirected
+1164.7155011549999,"Rowlett, TX","Cleveland, OH",undirected
+823.8372008,"Rowlett, TX","Knoxville, TN",undirected
+1313.582083015,"Rowlett, TX","Rockville, MD",undirected
+1146.7022955399998,"Rowlett, TX","Sarasota, FL",undirected
+640.4522727,"Rowlett, TX","East Pensacola Heights, FL",undirected
+449.49532978,"Rowlett, TX","Bartlett, TN",undirected
+1306.2346934500001,"Rowlett, TX","Doral, FL",undirected
+1458.554539085,"Rowlett, TX","Canoga Park, CA",undirected
+1651.215899915,"Rowlett, TX","Pittsfield, MA",undirected
+1318.243600755,"Rowlett, TX","Norfolk, VA",undirected
+931.04154553,"Rowlett, TX","Skokie, IL",undirected
+853.815507135,"Tucson, AZ","Concord, CA",undirected
+882.427110155,"Tucson, AZ","Napa, CA",undirected
+1740.14730637,"Tucson, AZ","Sandy Springs, GA",undirected
+2086.356339955,"Tucson, AZ","Palm Bay, FL",undirected
+478.158817195,"Tucson, AZ","Rosemead, CA",undirected
+2351.460122235,"Tucson, AZ","Irvington, NJ",undirected
+1950.4841582200002,"Tucson, AZ","Livonia, MI",undirected
+1776.7935341749999,"Tucson, AZ","Macon, GA",undirected
+1275.175514,"Tucson, AZ","Lafayette, LA",undirected
+763.408036245,"Tucson, AZ","Taylorsville, UT",undirected
+1061.620897605,"Tucson, AZ","McAllen, TX",undirected
+1976.46239518,"Tucson, AZ","Cleveland, OH",undirected
+1787.72250042,"Tucson, AZ","Knoxville, TN",undirected
+2205.65720516,"Tucson, AZ","Rockville, MD",undirected
+2092.00738942,"Tucson, AZ","Sarasota, FL",undirected
+1585.75736658,"Tucson, AZ","East Pensacola Heights, FL",undirected
+1413.3806294,"Tucson, AZ","Bartlett, TN",undirected
+2251.540098015,"Tucson, AZ","Doral, FL",undirected
+513.3386118,"Tucson, AZ","Canoga Park, CA",undirected
+2479.57636363,"Tucson, AZ","Pittsfield, MA",undirected
+2282.12858969,"Tucson, AZ","Norfolk, VA",undirected
+1723.7220117900001,"Tucson, AZ","Skokie, IL",undirected
+31.438525835,"Concord, CA","Napa, CA",undirected
+2467.27261626,"Concord, CA","Sandy Springs, GA",undirected
+2862.830855245,"Concord, CA","Palm Bay, FL",undirected
+379.34327815,"Concord, CA","Rosemead, CA",undirected
+2873.182258075,"Concord, CA","Irvington, NJ",undirected
+2360.4606666850004,"Concord, CA","Livonia, MI",undirected
+2539.962653655,"Concord, CA","Macon, GA",undirected
+2105.2018706850004,"Concord, CA","Lafayette, LA",undirected
+716.3305595649999,"Concord, CA","Taylorsville, UT",undirected
+1913.65866517,"Concord, CA","McAllen, TX",undirected
+2438.563768835,"Concord, CA","Cleveland, OH",undirected
+2512.904475635,"Concord, CA","Knoxville, TN",undirected
+2775.88472594,"Concord, CA","Rockville, MD",undirected
+2868.48190471,"Concord, CA","Sarasota, FL",undirected
+2362.23188187,"Concord, CA","East Pensacola Heights, FL",undirected
+2091.0321492049998,"Concord, CA","Bartlett, TN",undirected
+3028.01492399,"Concord, CA","Doral, FL",undirected
+358.110754565,"Concord, CA","Canoga Park, CA",undirected
+2948.55847798,"Concord, CA","Pittsfield, MA",undirected
+2933.786338285,"Concord, CA","Norfolk, VA",undirected
+2112.080436585,"Concord, CA","Skokie, IL",undirected
+2495.884529965,"Napa, CA","Sandy Springs, GA",undirected
+2891.442458265,"Napa, CA","Palm Bay, FL",undirected
+407.95488117,"Napa, CA","Rosemead, CA",undirected
+2864.95314448,"Napa, CA","Irvington, NJ",undirected
+2352.231863775,"Napa, CA","Livonia, MI",undirected
+2568.5748780450003,"Napa, CA","Macon, GA",undirected
+2133.8137843900004,"Napa, CA","Lafayette, LA",undirected
+708.10144597,"Napa, CA","Taylorsville, UT",undirected
+1942.27026819,"Napa, CA","McAllen, TX",undirected
+2430.334965925,"Napa, CA","Cleveland, OH",undirected
+2504.675672725,"Napa, CA","Knoxville, TN",undirected
+2767.655612345,"Napa, CA","Rockville, MD",undirected
+2897.093818415,"Napa, CA","Sarasota, FL",undirected
+2390.843795575,"Napa, CA","East Pensacola Heights, FL",undirected
+2119.643752225,"Napa, CA","Bartlett, TN",undirected
+3056.6265270100002,"Napa, CA","Doral, FL",undirected
+386.722357585,"Napa, CA","Canoga Park, CA",undirected
+2940.329364385,"Napa, CA","Pittsfield, MA",undirected
+2925.55722469,"Napa, CA","Norfolk, VA",undirected
+2103.851633675,"Napa, CA","Skokie, IL",undirected
+516.40942234,"Sandy Springs, GA","Palm Bay, FL",undirected
+2171.6493143750004,"Sandy Springs, GA","Rosemead, CA",undirected
+848.784274245,"Sandy Springs, GA","Irvington, NJ",undirected
+695.999954535,"Sandy Springs, GA","Livonia, MI",undirected
+97.232909655,"Sandy Springs, GA","Macon, GA",undirected
+593.4114568499999,"Sandy Springs, GA","Lafayette, LA",undirected
+1866.651092615,"Sandy Springs, GA","Taylorsville, UT",undirected
+1152.8091199,"Sandy Springs, GA","McAllen, TX",undirected
+665.71220594,"Sandy Springs, GA","Cleveland, OH",undirected
+184.90107089999998,"Sandy Springs, GA","Knoxville, TN",undirected
+635.96970952,"Sandy Springs, GA","Rockville, MD",undirected
+522.0604718049999,"Sandy Springs, GA","Sarasota, FL",undirected
+330.74220223,"Sandy Springs, GA","East Pensacola Heights, FL",undirected
+390.793573825,"Sandy Springs, GA","Bartlett, TN",undirected
+681.593491085,"Sandy Springs, GA","Doral, FL",undirected
+2196.44477354,"Sandy Springs, GA","Canoga Park, CA",undirected
+985.317904345,"Sandy Springs, GA","Pittsfield, MA",undirected
+556.8823572900001,"Sandy Springs, GA","Norfolk, VA",undirected
+689.661980535,"Sandy Springs, GA","Skokie, IL",undirected
+2562.7367962099997,"Palm Bay, FL","Rosemead, CA",undirected
+1101.37397541,"Palm Bay, FL","Irvington, NJ",undirected
+1167.4352376450001,"Palm Bay, FL","Livonia, MI",undirected
+426.52949458,"Palm Bay, FL","Macon, GA",undirected
+815.0656311949999,"Palm Bay, FL","Lafayette, LA",undirected
+2373.4196487199997,"Palm Bay, FL","Taylorsville, UT",undirected
+1374.462672875,"Palm Bay, FL","McAllen, TX",undirected
+1059.3584894350001,"Palm Bay, FL","Cleveland, OH",undirected
+691.6696270049999,"Palm Bay, FL","Knoxville, TN",undirected
+896.406692415,"Palm Bay, FL","Rockville, MD",undirected
+177.63849834,"Palm Bay, FL","Sarasota, FL",undirected
+511.01965896,"Palm Bay, FL","East Pensacola Heights, FL",undirected
+816.108911425,"Palm Bay, FL","Bartlett, TN",undirected
+177.687275885,"Palm Bay, FL","Doral, FL",undirected
+2597.9169014999998,"Palm Bay, FL","Canoga Park, CA",undirected
+1256.041978275,"Palm Bay, FL","Pittsfield, MA",undirected
+789.263863315,"Palm Bay, FL","Norfolk, VA",undirected
+1196.43053664,"Palm Bay, FL","Skokie, IL",undirected
+2767.404578865,"Rosemead, CA","Irvington, NJ",undirected
+2254.68329816,"Rosemead, CA","Livonia, MI",undirected
+2244.33935177,"Rosemead, CA","Macon, GA",undirected
+1751.555970255,"Rosemead, CA","Lafayette, LA",undirected
+674.04726312,"Rosemead, CA","Taylorsville, UT",undirected
+1538.001664545,"Rosemead, CA","McAllen, TX",undirected
+2332.786089625,"Rosemead, CA","Cleveland, OH",undirected
+2169.75009697,"Rosemead, CA","Knoxville, TN",undirected
+2599.4091215549997,"Rosemead, CA","Rockville, MD",undirected
+2568.38815636,"Rosemead, CA","Sarasota, FL",undirected
+2062.1384442050003,"Rosemead, CA","East Pensacola Heights, FL",undirected
+1795.40822595,"Rosemead, CA","Bartlett, TN",undirected
+2727.920864955,"Rosemead, CA","Doral, FL",undirected
+35.97359478,"Rosemead, CA","Canoga Park, CA",undirected
+2842.780488085,"Rosemead, CA","Pittsfield, MA",undirected
+2664.15680761,"Rosemead, CA","Norfolk, VA",undirected
+2006.302757375,"Rosemead, CA","Skokie, IL",undirected
+603.141800365,"Irvington, NJ","Livonia, MI",undirected
+880.226217615,"Irvington, NJ","Macon, GA",undirected
+1398.79583276,"Irvington, NJ","Lafayette, LA",undirected
+2160.75638759,"Irvington, NJ","Taylorsville, UT",undirected
+1958.1931851250001,"Irvington, NJ","McAllen, TX",undirected
+441.54241515,"Irvington, NJ","Cleveland, OH",undirected
+691.477623675,"Irvington, NJ","Knoxville, TN",undirected
+215.926385685,"Irvington, NJ","Rockville, MD",undirected
+1167.834778555,"Irvington, NJ","Sarasota, FL",undirected
+1171.1208938,"Irvington, NJ","East Pensacola Heights, FL",undirected
+1065.792154415,"Irvington, NJ","Bartlett, TN",undirected
+1272.81865759,"Irvington, NJ","Doral, FL",undirected
+2792.20003803,"Irvington, NJ","Canoga Park, CA",undirected
+159.9654928,"Irvington, NJ","Pittsfield, MA",undirected
+342.373316575,"Irvington, NJ","Norfolk, VA",undirected
+791.259082385,"Irvington, NJ","Skokie, IL",undirected
+783.591997955,"Livonia, MI","Macon, GA",undirected
+1140.623122145,"Livonia, MI","Lafayette, LA",undirected
+1648.0347962,"Livonia, MI","Taylorsville, UT",undirected
+1664.09534659,"Livonia, MI","McAllen, TX",undirected
+168.52331112500002,"Livonia, MI","Cleveland, OH",undirected
+511.451200425,"Livonia, MI","Knoxville, TN",undirected
+505.84426823,"Livonia, MI","Rockville, MD",undirected
+1208.41987079,"Livonia, MI","Sarasota, FL",undirected
+968.54433188,"Livonia, MI","East Pensacola Heights, FL",undirected
+727.39746995,"Livonia, MI","Bartlett, TN",undirected
+1338.879919825,"Livonia, MI","Doral, FL",undirected
+2279.47844664,"Livonia, MI","Canoga Park, CA",undirected
+595.1770797050001,"Livonia, MI","Pittsfield, MA",undirected
+690.50797579,"Livonia, MI","Norfolk, VA",undirected
+279.60749013500003,"Livonia, MI","Skokie, IL",undirected
+603.9862421949999,"Macon, GA","Lafayette, LA",undirected
+1954.2431360350001,"Macon, GA","Taylorsville, UT",undirected
+1163.383283875,"Macon, GA","McAllen, TX",undirected
+753.3039386749999,"Macon, GA","Cleveland, OH",undirected
+272.49311432,"Macon, GA","Knoxville, TN",undirected
+675.25893462,"Macon, GA","Rockville, MD",undirected
+432.18085472999996,"Macon, GA","Sarasota, FL",undirected
+335.721550725,"Macon, GA","East Pensacola Heights, FL",undirected
+463.483921905,"Macon, GA","Bartlett, TN",undirected
+591.713563325,"Macon, GA","Doral, FL",undirected
+2269.13450025,"Macon, GA","Canoga Park, CA",undirected
+1034.894531165,"Macon, GA","Pittsfield, MA",undirected
+568.116416205,"Macon, GA","Norfolk, VA",undirected
+777.25371327,"Macon, GA","Skokie, IL",undirected
+1628.540244505,"Lafayette, LA","Taylorsville, UT",undirected
+563.28184692,"Lafayette, LA","McAllen, TX",undirected
+1129.0510379500001,"Lafayette, LA","Cleveland, OH",undirected
+707.9507637449999,"Lafayette, LA","Knoxville, TN",undirected
+1197.69564596,"Lafayette, LA","Rockville, MD",undirected
+820.7166806600001,"Lafayette, LA","Sarasota, FL",undirected
+314.466968505,"Lafayette, LA","East Pensacola Heights, FL",undirected
+437.217369265,"Lafayette, LA","Bartlett, TN",undirected
+980.24969994,"Lafayette, LA","Doral, FL",undirected
+1786.736075545,"Lafayette, LA","Canoga Park, CA",undirected
+1535.32946286,"Lafayette, LA","Pittsfield, MA",undirected
+1141.88854215,"Lafayette, LA","Norfolk, VA",undirected
+971.89165207,"Lafayette, LA","Skokie, IL",undirected
+1528.6988235899998,"Taylorsville, UT","McAllen, TX",undirected
+1726.137587665,"Taylorsville, UT","Cleveland, OH",undirected
+1800.478915835,"Taylorsville, UT","Knoxville, TN",undirected
+2063.45854477,"Taylorsville, UT","Rockville, MD",undirected
+2379.07100887,"Taylorsville, UT","Sarasota, FL",undirected
+1971.3289469249999,"Taylorsville, UT","East Pensacola Heights, FL",undirected
+1535.5158738599998,"Taylorsville, UT","Bartlett, TN",undirected
+2538.603717465,"Taylorsville, UT","Doral, FL",undirected
+698.8424116000001,"Taylorsville, UT","Canoga Park, CA",undirected
+2236.1326074950002,"Taylorsville, UT","Pittsfield, MA",undirected
+2221.360157115,"Taylorsville, UT","Norfolk, VA",undirected
+1399.6545661,"Taylorsville, UT","Skokie, IL",undirected
+1659.79919441,"McAllen, TX","Cleveland, OH",undirected
+1267.3481161099999,"McAllen, TX","Knoxville, TN",undirected
+1757.0929983249998,"McAllen, TX","Rockville, MD",undirected
+1380.11434371,"McAllen, TX","Sarasota, FL",undirected
+873.86432087,"McAllen, TX","East Pensacola Heights, FL",undirected
+944.57933372,"McAllen, TX","Bartlett, TN",undirected
+1539.6467416199998,"McAllen, TX","Doral, FL",undirected
+1573.181769835,"McAllen, TX","Canoga Park, CA",undirected
+2094.72712591,"McAllen, TX","Pittsfield, MA",undirected
+1701.285894515,"McAllen, TX","Norfolk, VA",undirected
+1440.18466709,"McAllen, TX","Skokie, IL",undirected
+481.163141145,"Cleveland, OH","Knoxville, TN",undirected
+347.054718155,"Cleveland, OH","Rockville, MD",undirected
+1125.8196032649998,"Cleveland, OH","Sarasota, FL",undirected
+956.971626315,"Cleveland, OH","East Pensacola Heights, FL",undirected
+715.8250750699999,"Cleveland, OH","Bartlett, TN",undirected
+1230.8031716149999,"Cleveland, OH","Doral, FL",undirected
+2357.581238105,"Cleveland, OH","Canoga Park, CA",undirected
+509.26615282,"Cleveland, OH","Pittsfield, MA",undirected
+531.718425715,"Cleveland, OH","Norfolk, VA",undirected
+356.64090382999996,"Cleveland, OH","Skokie, IL",undirected
+490.37712619,"Knoxville, TN","Rockville, MD",undirected
+697.320987155,"Knoxville, TN","Sarasota, FL",undirected
+497.91807251,"Knoxville, TN","East Pensacola Heights, FL",undirected
+374.94677471499995,"Knoxville, TN","Bartlett, TN",undirected
+856.85369575,"Knoxville, TN","Doral, FL",undirected
+2194.54586682,"Knoxville, TN","Canoga Park, CA",undirected
+828.011253775,"Knoxville, TN","Pittsfield, MA",undirected
+495.03895461499997,"Knoxville, TN","Norfolk, VA",undirected
+541.346553865,"Knoxville, TN","Skokie, IL",undirected
+962.867806245,"Rockville, MD","Sarasota, FL",undirected
+958.306329075,"Rockville, MD","East Pensacola Heights, FL",undirected
+864.6919676150001,"Rockville, MD","Bartlett, TN",undirected
+1067.851374595,"Rockville, MD","Doral, FL",undirected
+2624.2042700350003,"Rockville, MD","Canoga Park, CA",undirected
+370.59438855,"Rockville, MD","Pittsfield, MA",undirected
+205.72815056000002,"Rockville, MD","Norfolk, VA",undirected
+693.961860935,"Rockville, MD","Skokie, IL",undirected
+516.6707084249999,"Sarasota, FL","East Pensacola Heights, FL",undirected
+821.75996089,"Sarasota, FL","Bartlett, TN",undirected
+220.8535391,"Sarasota, FL","Doral, FL",undirected
+2603.567950965,"Sarasota, FL","Canoga Park, CA",undirected
+1322.5030921050002,"Sarasota, FL","Pittsfield, MA",undirected
+855.7249771449999,"Sarasota, FL","Norfolk, VA",undirected
+1202.081586105,"Sarasota, FL","Skokie, IL",undirected
+435.659594675,"East Pensacola Heights, FL","Bartlett, TN",undirected
+676.20341702,"East Pensacola Heights, FL","Doral, FL",undirected
+2097.3185494950003,"East Pensacola Heights, FL","Canoga Park, CA",undirected
+1307.6545239000002,"East Pensacola Heights, FL","Pittsfield, MA",undirected
+879.218976845,"East Pensacola Heights, FL","Norfolk, VA",undirected
+885.08377759,"East Pensacola Heights, FL","Skokie, IL",undirected
+981.29298017,"Bartlett, TN","Doral, FL",undirected
+1820.2039958,"Bartlett, TN","Canoga Park, CA",undirected
+1202.32547383,"Bartlett, TN","Pittsfield, MA",undirected
+869.353485355,"Bartlett, TN","Norfolk, VA",undirected
+557.1063611750001,"Bartlett, TN","Skokie, IL",undirected
+2763.100970245,"Doral, FL","Canoga Park, CA",undirected
+1427.486660455,"Doral, FL","Pittsfield, MA",undirected
+960.708545495,"Doral, FL","Norfolk, VA",undirected
+1361.614605385,"Doral, FL","Skokie, IL",undirected
+2867.5762579350003,"Canoga Park, CA","Pittsfield, MA",undirected
+2688.95195609,"Canoga Park, CA","Norfolk, VA",undirected
+2031.09821654,"Canoga Park, CA","Skokie, IL",undirected
+497.04131944,"Pittsfield, MA","Norfolk, VA",undirected
+866.635612975,"Pittsfield, MA","Skokie, IL",undirected
+878.62525781,"Norfolk, VA","Skokie, IL",undirected
